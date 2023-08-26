@@ -1,7 +1,7 @@
 ###### HackerRank
 #### HackerRank HackFest 2020
 ##
+## -solved the challenge question
+## -Skill enhancement
 ##
-##
-##
-##Coding enthusiast, Skill enhancement
+## -Coding enthusiast 
